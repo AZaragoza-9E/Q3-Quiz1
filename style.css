@@ -1,0 +1,42 @@
+* {
+	color: black;
+	font-family: "Courier", sans-serif;
+}
+
+body {
+	align-items: center;
+	text-align: center;
+	background: #4E4C67;
+}
+
+mark {
+	background-color: #EFECFC;
+	color: black;
+}
+
+.container {
+   margin-top: 100px;
+   background-color:#4E4C67;
+   background:  #EFECFC;
+   border-radius: 10px;
+   font-family: courier;
+   width: 500px;
+}
+
+.btn {
+   background-color: #A6B1E1;
+}
+
+.btn:hover {
+   background:#4E4C67;
+}
+
+div {
+	border-radius: 100px;
+	background-color:#EFECFC;
+	width: 900px;
+}
+
+a {
+	color: white;
+}
